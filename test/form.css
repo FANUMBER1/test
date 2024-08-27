@@ -1,0 +1,92 @@
+body{
+    margin-left:100px;
+}
+#all{
+margin-left: 520px;
+width:380px;
+text-align: center;
+}
+#allbox{
+width:200px;
+}
+
+.inf{
+    margin-left: 5px;
+    width: 343px;
+    padding: 12px;
+    margin-top: -3px;
+    border-radius: 4px;
+    border-style: solid;
+}
+#select{
+    width: 370px;
+    padding: 12px;
+    margin-top: -3px;
+    border-radius: 4px;
+    border-style: solid;
+    border-color: black;
+    border:2px 2px;
+}
+p{
+    width:380px;
+}
+#under{
+    text-align: center;
+    margin-left: 525px;
+    margin-top: 20px;
+    width: 380px;
+}
+.bu{
+    margin-right: 6px;
+    margin-left: -3px;
+    border-radius: 4px;
+    width: 182px;
+    padding: 12px;
+    background:white;
+}
+.clicked{
+    margin-right: 6px;
+    margin-left: -3px;
+    border-radius: 4px;
+    width: 182px;
+    padding: 12px;
+    background:black;
+    color:white;
+}
+
+#checkbox{
+    scale: 1.5;
+    margin-top: 20px;
+    margin-left:0px;
+}
+input[type=checkbox] {
+    color:black;
+}
+#lic{
+    width: 365px;
+    padding: 12px;
+    background: black;
+    color: white;
+    border-radius: 4px
+}
+a{
+    color:black;
+}
+.p{
+    text-align: left;
+    margin-left: 10px;
+    font-size:smaller;
+    color:red;
+}
+#lb{
+text-align: left;
+}
+#eye{
+    margin-top: -29px;
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    z-index: 1;
+    pointer-events: none;
+    margin-left: 245px;
+}
